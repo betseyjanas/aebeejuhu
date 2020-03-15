@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eejiexangu.cn100800.tk/sitemap.xml
